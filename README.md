@@ -1,1 +1,1 @@
-# Face-Recognition-with-Real-Time-Database
+Developed a real-time face recognition and attendance tracking system using OpenCV for face detection, with Cloud and Firebase integration for efficient storage and database management, resulting in improved attendance record accuracy and reduced manual tracking time
